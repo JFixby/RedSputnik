@@ -1,7 +1,7 @@
 package com.jfixby.red.sputnik.http.processor.api;
 
-import com.jfixby.cmns.api.collections.Map;
-import com.jfixby.cmns.api.io.InputStream;
+import com.jfixby.scarabei.api.collections.Map;
+import com.jfixby.scarabei.api.io.InputStream;
 
 public interface ServletRequest {
 

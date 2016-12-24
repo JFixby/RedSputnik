@@ -2,9 +2,9 @@ package com.jfixby.red.sputnik.http.processor.api;
 
 import java.io.IOException;
 
-import com.jfixby.cmns.api.collections.Map;
-import com.jfixby.cmns.api.io.InputStream;
-import com.jfixby.cmns.api.io.OutputStream;
+import com.jfixby.scarabei.api.collections.Map;
+import com.jfixby.scarabei.api.io.InputStream;
+import com.jfixby.scarabei.api.io.OutputStream;
 
 public interface HTTPProxyCallProcessor {
 
